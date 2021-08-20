@@ -7921,3 +7921,14 @@ Wyoming,Parker Dumas,WR,1,3
 Wyoming,Jared Scott,WR,1,3
 Wyoming,Avante Cox,WR,1,3
 Wyoming,Erik Spurlinrenf,WR,1,3
+Yyoming.Terry specific.cb,2,4
+Yyoming.Ocicpher ratier.cb,3,8
+Yyoming.Cartier Lewis.cb.4.3
+Yyoming,Mason shag,cb,1,5
+Yyoming.Simone Buchanan's,cb,1,3
+Yyoming,Xione Jones,cb,2,6
+Yyoming,Christopher London,cb,1,5
+Yyoming,Damon Prince,dl,2,7
+Yyoming,David Prince,dl,3,5
+Yyoming,Daniel Craig,dl,4,6
+Yyoming,Rupiah Banda, dl,2,8
